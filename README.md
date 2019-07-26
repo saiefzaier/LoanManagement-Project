@@ -1,4 +1,13 @@
 This project consists of a loan management system.<br><br>
+
+NB: banks<br>
+Attijari: username:attijari password:attijari<br>
+UBCI: ubci:attijari password:ubcihow <br>
+Biat: username:attijari password:attijari<br>
+
+
+
+
 Upon login the program will check if the user is a customer or a bank administrator and will display the appropriate frame<br><br>
 A new customer can sign up but banks are predefined <br><br>
 When you click on next<br><br>
